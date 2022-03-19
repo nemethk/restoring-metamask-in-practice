@@ -67,7 +67,7 @@ név: Account 3
 privát kulcs: 3def70c36df26560bce748476e56b748a8420718b0038aca63c3fbb77a2c8b07
 ```
 
-## Metamask fiókok visszaállítása Metamask tárca segítéségvel
+## Metamask fiókok visszaállítása Metamask tárca segítéségével
 ### Visszaállítás
 Az alábbi lépések során a [_**Metamask 2**_](../images/B01.png) profilt használom.
 1. Telepítem a Metamask bővítményt.
