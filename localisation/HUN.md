@@ -10,18 +10,18 @@
 ## Tartalom
 - [HUN](#hun)
   * [Tartalom](#tartalom)
-  * [Bevezető](#bevezet-)
-    + [Böngésző](#b-ng-sz-)
-    + [Fizikai tárca](#fizikai-t-rca)
-  * [Metamask fiókok létrehozása](#metamask-fi-kok-l-trehoz-sa)
-  * [Metamask fiókok visszaállítása Metamask tárca segítéségvel](#metamask-fi-kok-vissza-ll-t-sa-metamask-t-rca-seg-t-s-gvel)
-    + [Visszaállítás](#vissza-ll-t-s)
-    + [Tesztelés 1](#tesztel-s-1)
-    + [Tesztelés 2](#tesztel-s-2)
-    + [Konklúzió](#konkl-zi-)
-  * [Metamask fiókok visszaállítása fizikai tárca segítségével](#metamask-fi-kok-vissza-ll-t-sa-fizikai-t-rca-seg-ts-g-vel)
+  * [Bevezető](#bevezető)
+    + [Böngésző](#böngésző)
+    + [Fizikai tárca](#fizikai-tárca)
+  * [Metamask fiókok létrehozása](#metamask-fiókok-létrehozása)
+  * [Metamask fiókok visszaállítása Metamask tárca segítéségvel](#metamask-fiókok-visszaállítása-metamask-tárca-segít-ségvel)
+    + [Visszaállítás](#visszaállítás)
+    + [Tesztelés 1](#tesztelés-1)
+    + [Tesztelés 2](#tesztelés-2)
+    + [Konklúzió](#konklúzió)
+  * [Metamask fiókok visszaállítása fizikai tárca segítségével](#metamask-fiókok-visszaállítása-fizikai-tárca-segítségével)
     + [Ledger Nano S](#ledger-nano-s)
-    + [Metamask használata fizikai tárcán tárolt kulcsokkal](#metamask-haszn-lata-fizikai-t-rc-n-t-rolt-kulcsokkal)
+    + [Metamask használata fizikai tárcán tárolt kulcsokkal](#metamask-használata-fizikai-tárcán-tárolt-kulcsokkal)
 
 ## Bevezető
 ### Böngésző
@@ -111,7 +111,7 @@ Az alábbi lépések továbbra is a _**Metamask 2**_ profilon hajtom végre.
 ### Tesztelés 2
 A soron következő lépést a _**Metamask 1**_ profilon hajtom végre.
 1. [Tesztelés végett itt is létrehozok egy újabb fiókot.](../images/B17.png)
-2. [Az "Account 5" részletei.](../images/B17.png)
+2. [Az "Account 5" részletei. Nincs hibaüzenet.](../images/B17.png)
 ```
 név: Account 5
 publikus kulcs: 0x85deE2C51718235ac0B0CaD56F267B89bC18ADdF
