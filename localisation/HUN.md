@@ -14,7 +14,7 @@
     + [Böngésző](#böngésző)
     + [Fizikai tárca](#fizikai-tárca)
   * [Metamask fiókok létrehozása](#metamask-fiókok-létrehozása)
-  * [Metamask fiókok visszaállítása Metamask tárca segítéségvel](#metamask-fiókok-visszaállítása-metamask-tárca-segít-ségvel)
+  * [Metamask fiókok visszaállítása Metamask tárca segítéségvel](#metamask-fiókok-visszaállítása-metamask-tárca-segítségével)
     + [Visszaállítás](#visszaállítás)
     + [Tesztelés 1](#tesztelés-1)
     + [Tesztelés 2](#tesztelés-2)
