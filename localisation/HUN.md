@@ -118,9 +118,9 @@ publikus kulcs: 0x85deE2C51718235ac0B0CaD56F267B89bC18ADdF
 ```
 
 ### Konklúzió
-- A szóláncból visszaállított tárcában, a fiókokat ismételten egyesével hozzáadva, azok ugyanazon kulcsokkal jönnek létre, mint eredetileg.
-- Egy adott fiókot a korábban lementett privát kulcs alapján is vissza lehet állítani (Account 3).
-- Amennyiben privát kulcsból állítjuk vissza a fiókot, azt követően, menüből újabb fiókok létrehozása esetén lehetnek gondok. Erre célszerű odafigyelni.
+- A visszaállított pénztárcában, amennyiben a menüből adjuk hozzá az új fiókokat, akkor ugyanazok a fiókok fognak hozzáadódni, ugyanabban a sorrendben, mint eredetileg.
+- Egy fiók visszaállítható a megfelelő privát kulccsal segítségével is (3. fiók).
+- Ha privát kulcsból visszaállított tárca esetén, a menüből új fiókot adunk hozzá, az hibákat okozhat. Odafigyelést igényel.
 
 ## Metamask fiókok visszaállítása fizikai tárca segítségével
 ### Ledger Nano S
