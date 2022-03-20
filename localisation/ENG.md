@@ -122,6 +122,7 @@ public key: 0x85deE2C51718235ac0B0CaD56F267B89bC18ADdF
 - If we add a new account from the menu in case of a wallet which is restored from a private key, it could produce errors. It requires attention.
 
 ## Restoring a Metamask account with a hardware wallet
+> ⚠️ **IMPORTANT NOTE** ⚠️<br> NEVER buy a hardware wallet from a 3rd party source like Ebay, Amazon, AliExpress or similar webstores. Order only from the manufacturer!
 ### Ledger Nano S
 1. Restore keys with the passphrase. Enter words one by one.
 2. Install Ethereum application on the hardware wallet.

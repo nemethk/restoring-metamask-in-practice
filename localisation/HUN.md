@@ -123,6 +123,7 @@ publikus kulcs: 0x85deE2C51718235ac0B0CaD56F267B89bC18ADdF
 - Ha privát kulcsból visszaállított tárca esetén, a menüből új fiókot adunk hozzá, az hibákat okozhat. Odafigyelést igényel.
 
 ## Metamask fiókok visszaállítása fizikai tárca segítségével
+> ⚠️ **FONTOS MEGJEGYZÉS** ⚠️<br> SOHA ne vásárolj fizikai tárcát harmadik féltől, mint például Emag, Alza, Amazon és hasonló webaáruházak. Kizárólag a gyártótól rendeld meg!
 ### Ledger Nano S
 1. Az eredeti Metamask tárca létrehozása alkalmával mentett szólánc bevitelével a fizikai tárcán létrehozom a kulcsokat.
 2. Telepítem az Etehreum alkalmazást a fizikai tárcán.
