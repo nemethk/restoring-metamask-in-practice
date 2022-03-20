@@ -24,6 +24,7 @@
     + [Metamask használata fizikai tárcán tárolt kulcsokkal](#metamask-használata-fizikai-tárcán-tárolt-kulcsokkal)
 
 ## Bevezető
+A segédletben azt az esetet tárgyalom, amikor egy Metamask tárcán belül több fiókot hoztunk létre.
 ### Böngésző
 A bemutató során Brave és Firefox böngészőket használok. Mindkettőhöz elérhető hivatalos Metamask bővítmény.
 

@@ -23,6 +23,7 @@
     + [Use Metamask with a hardware wallet](#use-metamask-with-a-hardware-wallet)
 
 ## Introduction
+In this guide, I discuss the case when we created multiple accounts within a Metamask wallet.
 ### Browser
 The manual is created based on Brave and Firefox browsers. For both of them official Metamask extension is available.
 
